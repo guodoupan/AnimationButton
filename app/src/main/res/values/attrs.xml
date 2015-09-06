@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AnimationButton">
+        <attr name="checkDrawable" format="integer"></attr>
+        <attr name="unCheckDrawable" format="integer"></attr>
+        <attr name="checkBackgroundColor" format="color"></attr>
+        <attr name="unCheckBackgroundColor" format="color"></attr>
+        <attr name="checked" format="boolean"></attr>
+    </declare-styleable>
+</resources>

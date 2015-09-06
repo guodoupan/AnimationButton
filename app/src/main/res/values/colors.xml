@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="checkColor">#FF9AD164</color>
+    <color name="unCheckColor">#FF169DF9</color>
+</resources>
